@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["GY5CJ8QQYT.com.tabonx.epoch.test"],
+	     "components": [{
+                "/": "/*", 
+                "comment": "Matches any URL on the domain"
+            }]
+        }]
+    }
+}
+
